@@ -1,0 +1,19 @@
+{
+  "name": "times-in-milliseconds",
+  "version": "0.0.3",
+  "description": "An object containting human-readable times in milliseconds. For lazy people who want to write times like ms.SECOND instead of 1000.",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "keywords": [
+    "times",
+    "milliseconds",
+    "ms"
+  ],
+  "author": "ol-web",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.55.3"
+  }
+}

@@ -1,0 +1,1 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):e.ms=t()}(this,function(){"use strict";return{MILLISECOND:1,SECOND:1e3,MINUTE:6e4,HOUR:36e5,DAY:864e5,WEEK:6048e5}});
